@@ -1,0 +1,18 @@
+body {
+  background: #ffc107;
+  font-family: "Baloo Thambi 2", "Noto Sans TC";
+}
+
+.logo {
+  min-width: 46px;
+}
+
+form.d-flex {
+  flex-grow: 1;
+  width: 100%;
+  max-width: 340px;
+}
+
+form.d-flex.full {
+  max-width: 100%;
+}
